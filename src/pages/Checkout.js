@@ -16,7 +16,7 @@ export default function Checkout() {
     parseFloat(ticketCost) + parseFloat(processFee) + parseFloat(feeTwo);
   return (
     <>
-      <section className="py-32 px-5 max-width flex flex-col-reverse md:grid md:grid-cols-2 md:gap-10">
+      <section className="py-32 px-5 max-width flex flex-col md:grid md:grid-cols-2 md:gap-10">
         <article className="mt-8 md:mt-0">
           <h1 className="heading mb-8">Checkout</h1>
           <h2 className="font-bold opacity-80 text-lg lg:text-xl mb-5 text-white">

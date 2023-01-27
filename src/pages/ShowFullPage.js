@@ -23,7 +23,7 @@ export default function ShowFullPage() {
   }
   return (
     <>
-      <section className="py-32 max-width flex flex-col-reverse md:grid md:grid-cols-2 md:gap-10">
+      <section className="py-32 px-5 max-width flex flex-col-reverse md:grid md:grid-cols-2 md:gap-10">
         <article className="mt-8 md:mt-0">
           <h1 className="heading mb-8">{UpcomingShows[id].title}</h1>
           <h2 className="font-bold opacity-80 text-lg lg:text-2xl mb-10 text-white">
