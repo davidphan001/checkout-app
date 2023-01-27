@@ -20,7 +20,7 @@ export default function ShowPage() {
                   0,
                   200
                 )}...`}</p>
-                <Link to={`/${id}`} className="btn">
+                <Link to={`/checkout-app/${id}`} className="btn">
                   See Tickets
                 </Link>
               </div>

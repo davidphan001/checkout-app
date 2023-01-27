@@ -4,7 +4,7 @@ export default function Error() {
     <>
       <section className="flex flex-col items-center justify-center text-center h-screen">
         <h1>Error | The requested information could not be found</h1>
-        <Link to={`/`} className="btn">
+        <Link to={`/checkout-app`} className="btn">
           &larr; Back to Homepage
         </Link>
       </section>

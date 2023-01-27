@@ -43,7 +43,7 @@ export default function Checkout() {
           <ul className="mt-8 flex items-center justify-start gap-4">
             <li>
               <Link
-                to={`/`}
+                to={`/checkout-app`}
                 className="text-white opacity-75 text-sm hover:opacity-100"
               >
                 &larr; Back

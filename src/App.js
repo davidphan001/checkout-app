@@ -7,9 +7,9 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<ShowPage />}></Route>
-        <Route path="/:id" element={<ShowFullPage />}></Route>
-        <Route path="/Checkout/:id" element={<Checkout />}></Route>
+        <Route path="/checkout-app" element={<ShowPage />}></Route>
+        <Route path="/checkout-app/:id" element={<ShowFullPage />}></Route>
+        <Route path="/checkout-app/Checkout/:id" element={<Checkout />}></Route>
         <Route path="*" element={<Error />}></Route>
       </Routes>
     </BrowserRouter>

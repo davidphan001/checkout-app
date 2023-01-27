@@ -43,7 +43,7 @@ export default function ShowFullPage() {
           </h2>
           <Link
             to={{
-              pathname: `/Checkout/${id}`,
+              pathname: `/checkout-app/Checkout/${id}`,
               search: "?count=" + count,
             }}
             className="btn"
@@ -59,7 +59,7 @@ export default function ShowFullPage() {
           <ul className="mt-8 flex items-center justify-start gap-4">
             <li>
               <Link
-                to={`/`}
+                to={`/checkout-app`}
                 className="text-white opacity-75 text-sm hover:opacity-100"
               >
                 &larr; Back
