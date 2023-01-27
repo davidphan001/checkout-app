@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "title": "Star Wars: I - The Phantom Menace",
+    "description": "Obi-Wan Kenobi (Ewan McGregor) is a young apprentice Jedi knight under the tutelage of Qui-Gon Jinn (Liam Neeson) ; Anakin Skywalker (Jake Lloyd), who will later father Luke Skywalker and become known as Darth Vader, is just a 9-year-old boy. When the Trade Federation cuts off all routes to the planet Naboo, Qui-Gon and Obi-Wan are assigned to settle the matter.",
+    "year": "1999",
+    "value": 5.08,
+    "image": "https://mallsurfer.files.wordpress.com/2013/04/ws_star_wars-_the_phantom_menace_1280x960.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Star Wars: II - Attack of the Clones",
+    "description": "Set ten years after the events of The Phantom Menace, the Republic continues to be mired in strife and chaos. A separatist movement encompassing hundreds of planets and powerful corporate alliances poses new threats to the galaxy that even the Jedi cannot stem. These moves, long planned by an as yet unrevealed and powerful force, lead to the beginning of the Clone Wars -- and the beginning of the end of the Republic.",
+    "year": "2002",
+    "value": 5.81,
+    "image": "https://miro.medium.com/max/1400/1*FsbYuor5ua2ia2YVtbh3HQ.png"
+  },
+  {
+    "id": 2,
+    "title": "Star Wars: III - Revenge of the Sith",
+    "description": "It has been three years since the Clone Wars began. Jedi Master Obi-Wan Kenobi (Ewan McGregor) and Jedi Knight Anakin Skywalker (Hayden Christensen) rescue Chancellor Palpatine (Ian McDiarmid) from General Grievous, the commander of the droid armies, but Grievous escapes. Suspicions are raised within the Jedi Council concerning Chancellor Palpatine, with whom Anakin has formed a bond. Asked to spy on the chancellor, and full of bitterness toward the Jedi Council, Anakin embraces the Dark Side.",
+    "year": "2005",
+    "value": 6.41,
+    "image": "https://images.bauerhosting.com/legacy/empire-tmdb/films/1895/images/wUYTfFbfPiZC6Lcyt1nonr69ZmK.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill"
+  },
+  {
+    "id": 3,
+    "title": "Star Wars: IV - A New Hope",
+    "description": "The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage, in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker (Mark Hamill) and Han Solo (Harrison Ford), captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 (Kenny Baker) and C-3PO (Anthony Daniels) to rescue the beautiful princess, help the Rebel Alliance, and restore freedom and justice to the Galaxy.",
+    "year": "1977",
+    "value": 2.23,
+    "image": "https://images.bauerhosting.com/legacy/empire-tmdb/films/11/images/4iJfYYoQzZcONB9hNzg0J0wWyPH.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill"
+  },
+  {
+    "id": 4,
+    "title": "Star Wars: V - The Empire Strikes Back",
+    "description": "The adventure continues in this Star Wars sequel. Luke Skywalker (Mark Hamill), Han Solo (Harrison Ford), Princess Leia (Carrie Fisher) and Chewbacca (Peter Mayhew) face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi master's help will Luke survive when the dark side of the Force beckons him into the ultimate duel with Darth Vader (David Prowse).",
+    "year": "1980",
+    "value": 2.69,
+    "image": "https://images.bauerhosting.com/legacy/empire-tmdb/films/1891/images/AkE7LQs2hPMG5tpWYcum847Knre.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill"
+  },
+  {
+    "id": 5,
+    "title": "Star Wars: VI - Return of the Jedi",
+    "description": "Luke Skywalker (Mark Hamill) battles horrible Jabba the Hut and cruel Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher) reaffirm their love and team with Chewbacca, Lando Calrissian (Billy Dee Williams), the Ewoks and the androids C-3PO and R2-D2 to aid in the disruption of the Dark Side and the defeat of the evil emperor.",
+    "year": "1983",
+    "value": 3.55,
+    "image": "https://lumiere-a.akamaihd.net/v1/images/return-of-the-jedi-desktop_816eb7ca.jpeg?region=0,0,2048,878"
+  },
+  {
+    "id": 6,
+    "title": "Star Wars: VII - The Force Awakens",
+    "description": "Thirty years after the Galactic Civil War,[a] the First Order has risen from the fallen Galactic Empire and seeks to end the New Republic. The Resistance, backed by the Republic and led by General Leia Organa, opposes the First Order. Leia searches for her brother, Luke Skywalker, who is missing.",
+    "year": "2015",
+    "value": 8.43,
+    "image": "https://lumiere-a.akamaihd.net/v1/images/avco_payoff_1-sht_v7_lg_32e68793.jpeg?region=148%2C193%2C1405%2C792"
+  },
+  {
+    "id": 7,
+    "title": "Rogue One: A Star Wars Story",
+    "description": "Former scientist Galen Erso lives on a farm with his wife and young daughter, Jyn. His peaceful existence comes crashing down when the evil Orson Krennic takes him away from his beloved family. Many years later, Galen becomes the Empire's lead engineer for the most powerful weapon in the galaxy, the Death Star. Knowing that her father holds the key to its destruction, Jyn joins forces with a spy and other resistance fighters to steal the space station's plans for the Rebel Alliance.",
+    "year": "2016",
+    "value": 8.65,
+    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2Fdisney-rogue-one-a-star-wars-story-returns-to-theaters-ahead-of-andor-tw.jpg?w=960&cbr=1&q=90&fit=max"
+  },
+  {
+    "id": 8,
+    "title": "Star Wars: VIII - The Last Jedi",
+    "description": "Luke Skywalker's peaceful and solitary existence gets upended when he encounters Rey, a young woman who shows strong signs of the Force. Her desire to learn the ways of the Jedi forces Luke to make a decision that changes their lives forever. Meanwhile, Kylo Ren and General Hux lead the First Order in an all-out assault against Leia and the Resistance for supremacy of the galaxy.",
+    "year": "2017",
+    "value": 8.97,
+    "image": "https://miro.medium.com/max/960/1*85TnxmIZuk2hYxXdIqf7Lw.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Star Wars: IX - The Rise of Skywalker",
+    "description": "When it's discovered that the evil Emperor Palpatine did not die at the hands of Darth Vader, the rebels must race against the clock to find out his whereabouts. Finn and Poe lead the Resistance to put a stop to the First Order's plans to form a new Empire, while Rey anticipates her inevitable confrontation with Kylo Ren. Warning: Some flashing-lights scenes in this film may affect photosensitive viewers.",
+    "year": "2019",
+    "value": 9.01,
+    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F11%2Fstar-wars-episode-9-the-rise-of-skywalker-tv-spot-tw.jpg?w=960&cbr=1&q=90&fit=max"
+  }
+]
