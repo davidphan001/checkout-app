@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/checkout-app/static/css/main.155d1e25.css",
-    "main.js": "/checkout-app/static/js/main.0ba81be4.js",
+    "main.js": "/checkout-app/static/js/main.085a13f5.js",
     "static/js/787.9ef90f0b.chunk.js": "/checkout-app/static/js/787.9ef90f0b.chunk.js",
     "index.html": "/checkout-app/index.html",
     "main.155d1e25.css.map": "/checkout-app/static/css/main.155d1e25.css.map",
-    "main.0ba81be4.js.map": "/checkout-app/static/js/main.0ba81be4.js.map",
+    "main.085a13f5.js.map": "/checkout-app/static/js/main.085a13f5.js.map",
     "787.9ef90f0b.chunk.js.map": "/checkout-app/static/js/787.9ef90f0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.155d1e25.css",
-    "static/js/main.0ba81be4.js"
+    "static/js/main.085a13f5.js"
   ]
 }
